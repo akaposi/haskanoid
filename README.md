@@ -7,7 +7,7 @@ The game has been created for educational purposes, but tries to feature a
 substantial amount of the complexity often found in real arcade games. In
 particular:
 
-* SDL 1.2 graphics and sound.
+* SDL 1.2 graphics and sound. Argh!!!
 
 * Multiple input devices (keyboard, mouse, Wiimote Ir).
 
